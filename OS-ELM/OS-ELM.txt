@@ -1,0 +1,432 @@
+Master scikit-elm OS-ELM tuning script started.
+
+--- Starting scikit-elm OS-ELM Tuning for MEFAR_DOWN.csv ---
+
+Testing with Batch Size: 5000
+  Neurons:   500 | Accuracy:  64.96% | Time: 0.20s
+  Neurons:   550 | Accuracy:  64.47% | Time: 0.23s
+  Neurons:   600 | Accuracy:  64.96% | Time: 0.25s
+  Neurons:   650 | Accuracy:  64.78% | Time: 0.34s
+  Neurons:   700 | Accuracy:  64.16% | Time: 0.35s
+  Neurons:   750 | Accuracy:  63.95% | Time: 0.39s
+  Neurons:   800 | Accuracy:  63.53% | Time: 0.45s
+  Neurons:   850 | Accuracy:  63.22% | Time: 0.48s
+  Neurons:   900 | Accuracy:  63.09% | Time: 0.53s
+  Neurons:   950 | Accuracy:  63.00% | Time: 0.57s
+  Neurons:  1000 | Accuracy:  63.09% | Time: 0.61s
+  Neurons:  1100 | Accuracy:  61.88% | Time: 0.74s
+  Neurons:  1200 | Accuracy:  61.93% | Time: 0.88s
+  Neurons:  1300 | Accuracy:  62.01% | Time: 0.97s
+  Neurons:  1400 | Accuracy:  62.57% | Time: 1.09s
+
+Testing with Batch Size: 6000
+  Neurons:   500 | Accuracy:  67.17% | Time: 0.20s
+  Neurons:   550 | Accuracy:  67.21% | Time: 0.21s
+  Neurons:   600 | Accuracy:  67.19% | Time: 0.24s
+  Neurons:   650 | Accuracy:  67.68% | Time: 0.27s
+  Neurons:   700 | Accuracy:  67.72% | Time: 0.31s
+  Neurons:   750 | Accuracy:  68.17% | Time: 0.34s
+  Neurons:   800 | Accuracy:  68.21% | Time: 0.39s
+  Neurons:   850 | Accuracy:  68.59% | Time: 0.44s
+  Neurons:   900 | Accuracy:  68.48% | Time: 0.46s
+  Neurons:   950 | Accuracy:  68.34% | Time: 0.52s
+  Neurons:  1000 | Accuracy:  67.59% | Time: 0.57s
+  Neurons:  1100 | Accuracy:  67.10% | Time: 0.67s
+  Neurons:  1200 | Accuracy:  66.54% | Time: 0.77s
+  Neurons:  1300 | Accuracy:  67.46% | Time: 0.92s
+  Neurons:  1400 | Accuracy:  66.58% | Time: 0.99s
+
+Testing with Batch Size: 7000
+  Neurons:   500 | Accuracy:  59.96% | Time: 0.19s
+  Neurons:   550 | Accuracy:  58.71% | Time: 0.21s
+  Neurons:   600 | Accuracy:  58.32% | Time: 0.24s
+  Neurons:   650 | Accuracy:  59.38% | Time: 0.28s
+  Neurons:   700 | Accuracy:  59.12% | Time: 0.31s
+  Neurons:   750 | Accuracy:  59.65% | Time: 0.35s
+  Neurons:   800 | Accuracy:  58.90% | Time: 0.37s
+  Neurons:   850 | Accuracy:  59.16% | Time: 0.43s
+  Neurons:   900 | Accuracy:  58.09% | Time: 0.48s
+  Neurons:   950 | Accuracy:  57.00% | Time: 0.55s
+  Neurons:  1000 | Accuracy:  54.86% | Time: 0.56s
+  Neurons:  1100 | Accuracy:  54.13% | Time: 0.69s
+  Neurons:  1200 | Accuracy:  54.28% | Time: 0.81s
+  Neurons:  1300 | Accuracy:  54.04% | Time: 0.88s
+  Neurons:  1400 | Accuracy:  54.37% | Time: 1.07s
+
+Testing with Batch Size: 8000
+  Neurons:   500 | Accuracy:  67.95% | Time: 0.20s
+  Neurons:   550 | Accuracy:  68.99% | Time: 0.20s
+  Neurons:   600 | Accuracy:  69.31% | Time: 0.27s
+  Neurons:   650 | Accuracy:  69.50% | Time: 0.28s
+  Neurons:   700 | Accuracy:  69.91% | Time: 0.31s
+  Neurons:   750 | Accuracy:  69.53% | Time: 0.34s
+  Neurons:   800 | Accuracy:  69.77% | Time: 0.40s
+  Neurons:   850 | Accuracy:  69.93% | Time: 0.43s
+  Neurons:   900 | Accuracy:  69.80% | Time: 0.45s
+  Neurons:   950 | Accuracy:  69.50% | Time: 0.51s
+  Neurons:  1000 | Accuracy:  69.37% | Time: 0.57s
+  Neurons:  1100 | Accuracy:  70.49% | Time: 0.64s
+  Neurons:  1200 | Accuracy:  69.46% | Time: 0.75s
+  Neurons:  1300 | Accuracy:  69.57% | Time: 0.87s
+  Neurons:  1400 | Accuracy:  69.44% | Time: 0.88s
+
+Testing with Batch Size: 9000
+  Neurons:   500 | Accuracy:  67.17% | Time: 0.18s
+  Neurons:   550 | Accuracy:  67.21% | Time: 0.20s
+  Neurons:   600 | Accuracy:  67.19% | Time: 0.29s
+  Neurons:   650 | Accuracy:  67.68% | Time: 0.27s
+  Neurons:   700 | Accuracy:  67.72% | Time: 0.31s
+  Neurons:   750 | Accuracy:  68.17% | Time: 0.33s
+  Neurons:   800 | Accuracy:  68.21% | Time: 0.37s
+  Neurons:   850 | Accuracy:  68.59% | Time: 0.40s
+  Neurons:   900 | Accuracy:  68.48% | Time: 0.43s
+  Neurons:   950 | Accuracy:  68.34% | Time: 0.49s
+  Neurons:  1000 | Accuracy:  67.59% | Time: 0.56s
+  Neurons:  1100 | Accuracy:  67.10% | Time: 0.62s
+  Neurons:  1200 | Accuracy:  66.54% | Time: 0.72s
+  Neurons:  1300 | Accuracy:  67.46% | Time: 0.89s
+  Neurons:  1400 | Accuracy:  66.58% | Time: 0.97s
+
+Testing with Batch Size: 10000
+  Neurons:   500 | Accuracy:  64.96% | Time: 0.22s
+  Neurons:   550 | Accuracy:  64.47% | Time: 0.24s
+  Neurons:   600 | Accuracy:  64.96% | Time: 0.28s
+  Neurons:   650 | Accuracy:  64.78% | Time: 0.30s
+  Neurons:   700 | Accuracy:  64.16% | Time: 0.34s
+  Neurons:   750 | Accuracy:  63.95% | Time: 0.37s
+  Neurons:   800 | Accuracy:  63.53% | Time: 0.40s
+  Neurons:   850 | Accuracy:  63.22% | Time: 0.45s
+  Neurons:   900 | Accuracy:  63.09% | Time: 0.48s
+  Neurons:   950 | Accuracy:  63.00% | Time: 0.54s
+  Neurons:  1000 | Accuracy:  63.09% | Time: 0.57s
+  Neurons:  1100 | Accuracy:  61.88% | Time: 0.68s
+  Neurons:  1200 | Accuracy:  61.93% | Time: 0.79s
+  Neurons:  1300 | Accuracy:  62.01% | Time: 0.91s
+  Neurons:  1400 | Accuracy:  62.57% | Time: 0.96s
+
+
+
+
+
+--- Finished scikit-elm OS-ELM Tuning for MEFAR_DOWN.csv ---
+
+--- Starting scikit-elm OS-ELM Tuning for MEFAR_MID.csv ---
+
+Testing with Batch Size: 5000
+  Neurons:   500 | Accuracy:  67.33% | Time: 6.43s
+  Neurons:   550 | Accuracy:  67.32% | Time: 7.64s
+  Neurons:   600 | Accuracy:  67.73% | Time: 8.86s
+  Neurons:   650 | Accuracy:  68.16% | Time: 10.30s
+  Neurons:   700 | Accuracy:  68.00% | Time: 11.52s
+  Neurons:   750 | Accuracy:  67.96% | Time: 13.04s
+  Neurons:   800 | Accuracy:  68.12% | Time: 13.62s
+  Neurons:   850 | Accuracy:  68.43% | Time: 15.09s
+  Neurons:   900 | Accuracy:  68.34% | Time: 16.95s
+  Neurons:   950 | Accuracy:  68.08% | Time: 18.77s
+  Neurons:  1000 | Accuracy:  68.02% | Time: 25.55s
+  Neurons:  1100 | Accuracy:  68.09% | Time: 30.80s
+  Neurons:  1200 | Accuracy:  67.88% | Time: 32.69s
+  Neurons:  1300 | Accuracy:  67.70% | Time: 34.86s
+  Neurons:  1400 | Accuracy:  67.83% | Time: 39.77s
+
+Testing with Batch Size: 6000
+  Neurons:   500 | Accuracy:  56.46% | Time: 6.33s
+  Neurons:   550 | Accuracy:  55.32% | Time: 7.00s
+  Neurons:   600 | Accuracy:  53.78% | Time: 7.94s
+  Neurons:   650 | Accuracy:  53.84% | Time: 8.98s
+  Neurons:   700 | Accuracy:  55.04% | Time: 10.24s
+  Neurons:   750 | Accuracy:  55.47% | Time: 11.60s
+  Neurons:   800 | Accuracy:  56.06% | Time: 12.86s
+  Neurons:   850 | Accuracy:  56.19% | Time: 14.42s
+  Neurons:   900 | Accuracy:  56.75% | Time: 15.72s
+  Neurons:   950 | Accuracy:  56.88% | Time: 17.45s
+  Neurons:  1000 | Accuracy:  57.17% | Time: 18.71s
+  Neurons:  1100 | Accuracy:  57.25% | Time: 21.79s
+  Neurons:  1200 | Accuracy:  57.56% | Time: 25.66s
+  Neurons:  1300 | Accuracy:  57.36% | Time: 29.43s
+  Neurons:  1400 | Accuracy:  57.32% | Time: 33.64s
+
+Testing with Batch Size: 7000
+  Neurons:   500 | Accuracy:  67.33% | Time: 5.85s
+  Neurons:   550 | Accuracy:  67.32% | Time: 6.71s
+  Neurons:   600 | Accuracy:  67.73% | Time: 7.62s
+  Neurons:   650 | Accuracy:  68.16% | Time: 8.68s
+  Neurons:   700 | Accuracy:  68.00% | Time: 9.89s
+  Neurons:   750 | Accuracy:  67.96% | Time: 11.08s
+  Neurons:   800 | Accuracy:  68.12% | Time: 12.34s
+  Neurons:   850 | Accuracy:  68.43% | Time: 13.51s
+  Neurons:   900 | Accuracy:  68.34% | Time: 14.81s
+  Neurons:   950 | Accuracy:  68.08% | Time: 16.19s
+  Neurons:  1000 | Accuracy:  68.02% | Time: 17.58s
+  Neurons:  1100 | Accuracy:  68.09% | Time: 21.21s
+  Neurons:  1200 | Accuracy:  67.88% | Time: 25.39s
+  Neurons:  1300 | Accuracy:  67.70% | Time: 30.65s
+  Neurons:  1400 | Accuracy:  67.83% | Time: 35.51s
+
+Testing with Batch Size: 8000
+  Neurons:   500 | Accuracy:  66.71% | Time: 6.08s
+  Neurons:   550 | Accuracy:  66.77% | Time: 7.03s
+  Neurons:   600 | Accuracy:  67.25% | Time: 8.11s
+  Neurons:   650 | Accuracy:  67.29% | Time: 8.77s
+  Neurons:   700 | Accuracy:  67.32% | Time: 9.96s
+  Neurons:   750 | Accuracy:  67.09% | Time: 11.47s
+  Neurons:   800 | Accuracy:  67.17% | Time: 12.35s
+  Neurons:   850 | Accuracy:  67.05% | Time: 14.39s
+  Neurons:   900 | Accuracy:  66.92% | Time: 15.52s
+  Neurons:   950 | Accuracy:  66.37% | Time: 15.70s
+  Neurons:  1000 | Accuracy:  66.49% | Time: 17.20s
+  Neurons:  1100 | Accuracy:  66.27% | Time: 19.89s
+  Neurons:  1200 | Accuracy:  66.63% | Time: 22.52s
+  Neurons:  1300 | Accuracy:  66.69% | Time: 26.32s
+  Neurons:  1400 | Accuracy:  66.73% | Time: 30.12s
+
+Testing with Batch Size: 9000
+  Neurons:   500 | Accuracy:  56.46% | Time: 5.58s
+  Neurons:   550 | Accuracy:  55.32% | Time: 6.48s
+  Neurons:   600 | Accuracy:  53.78% | Time: 7.36s
+  Neurons:   650 | Accuracy:  53.84% | Time: 8.31s
+  Neurons:   700 | Accuracy:  55.04% | Time: 9.39s
+  Neurons:   750 | Accuracy:  55.47% | Time: 10.57s
+  Neurons:   800 | Accuracy:  56.06% | Time: 11.56s
+  Neurons:   850 | Accuracy:  56.19% | Time: 12.61s
+  Neurons:   900 | Accuracy:  56.75% | Time: 14.77s
+  Neurons:   950 | Accuracy:  56.88% | Time: 16.15s
+  Neurons:  1000 | Accuracy:  57.17% | Time: 17.41s
+  Neurons:  1100 | Accuracy:  57.25% | Time: 20.69s
+  Neurons:  1200 | Accuracy:  57.56% | Time: 24.20s
+  Neurons:  1300 | Accuracy:  57.36% | Time: 28.20s
+  Neurons:  1400 | Accuracy:  57.32% | Time: 32.49s
+
+Testing with Batch Size: 10000
+  Neurons:   500 | Accuracy:  69.12% | Time: 7.99s
+  Neurons:   550 | Accuracy:  69.63% | Time: 8.65s
+  Neurons:   600 | Accuracy:  70.36% | Time: 9.58s
+  Neurons:   650 | Accuracy:  71.08% | Time: 10.75s
+  Neurons:   700 | Accuracy:  71.34% | Time: 11.72s
+  Neurons:   750 | Accuracy:  71.38% | Time: 12.93s
+  Neurons:   800 | Accuracy:  71.54% | Time: 14.12s
+  Neurons:   850 | Accuracy:  71.76% | Time: 15.12s
+  Neurons:   900 | Accuracy:  71.97% | Time: 16.24s
+  Neurons:   950 | Accuracy:  72.09% | Time: 18.19s
+  Neurons:  1000 | Accuracy:  72.09% | Time: 19.62s
+  Neurons:  1100 | Accuracy:  72.11% | Time: 22.63s
+  Neurons:  1200 | Accuracy:  72.14% | Time: 26.43s
+  Neurons:  1300 | Accuracy:  72.11% | Time: 30.04s
+  Neurons:  1400 | Accuracy:  72.20% | Time: 33.50s
+
+
+
+
+--- Finished scikit-elm OS-ELM Tuning for MEFAR_MID.csv ---
+
+--- Starting scikit-elm OS-ELM Tuning for MEFAR_UP.csv ---
+
+Testing with Batch Size: 5000
+  Neurons:   500 | Accuracy:  65.54% | Time: 13.93s
+  Neurons:   550 | Accuracy:  65.60% | Time: 16.43s
+  Neurons:   600 | Accuracy:  65.58% | Time: 18.43s
+  Neurons:   650 | Accuracy:  65.82% | Time: 20.42s
+  Neurons:   700 | Accuracy:  66.12% | Time: 23.17s
+  Neurons:   750 | Accuracy:  66.01% | Time: 25.55s
+  Neurons:   800 | Accuracy:  66.17% | Time: 28.31s
+  Neurons:   850 | Accuracy:  66.21% | Time: 32.19s
+  Neurons:   900 | Accuracy:  65.90% | Time: 35.58s
+  Neurons:   950 | Accuracy:  65.43% | Time: 39.93s
+  Neurons:  1000 | Accuracy:  65.12% | Time: 43.27s
+  Neurons:  1100 | Accuracy:  65.13% | Time: 50.96s
+  Neurons:  1200 | Accuracy:  64.93% | Time: 59.77s
+  Neurons:  1300 | Accuracy:  65.08% | Time: 70.28s
+  Neurons:  1400 | Accuracy:  64.93% | Time: 81.81s
+
+Testing with Batch Size: 6000
+  Neurons:   500 | Accuracy:  63.88% | Time: 13.27s
+  Neurons:   550 | Accuracy:  63.43% | Time: 15.48s
+  Neurons:   600 | Accuracy:  63.20% | Time: 17.91s
+  Neurons:   650 | Accuracy:  61.97% | Time: 19.63s
+  Neurons:   700 | Accuracy:  61.35% | Time: 22.08s
+  Neurons:   750 | Accuracy:  60.88% | Time: 25.20s
+  Neurons:   800 | Accuracy:  60.69% | Time: 27.72s
+  Neurons:   850 | Accuracy:  60.86% | Time: 30.42s
+  Neurons:   900 | Accuracy:  60.51% | Time: 33.32s
+  Neurons:   950 | Accuracy:  60.45% | Time: 36.79s
+  Neurons:  1000 | Accuracy:  60.31% | Time: 40.45s
+  Neurons:  1100 | Accuracy:  60.06% | Time: 47.35s
+  Neurons:  1200 | Accuracy:  59.93% | Time: 56.44s
+  Neurons:  1300 | Accuracy:  59.94% | Time: 65.11s
+  Neurons:  1400 | Accuracy:  59.81% | Time: 75.71s
+
+Testing with Batch Size: 7000
+  Neurons:   500 | Accuracy:  56.75% | Time: 12.90s
+  Neurons:   550 | Accuracy:  56.94% | Time: 14.28s
+  Neurons:   600 | Accuracy:  57.34% | Time: 16.58s
+  Neurons:   650 | Accuracy:  56.98% | Time: 18.66s
+  Neurons:   700 | Accuracy:  57.21% | Time: 20.87s
+  Neurons:   750 | Accuracy:  57.45% | Time: 23.92s
+  Neurons:   800 | Accuracy:  57.48% | Time: 26.98s
+  Neurons:   850 | Accuracy:  58.22% | Time: 28.70s
+  Neurons:   900 | Accuracy:  58.70% | Time: 30.19s
+  Neurons:   950 | Accuracy:  59.08% | Time: 33.06s
+  Neurons:  1000 | Accuracy:  59.77% | Time: 36.13s
+  Neurons:  1100 | Accuracy:  59.10% | Time: 42.55s
+  Neurons:  1200 | Accuracy:  59.43% | Time: 50.26s
+  Neurons:  1300 | Accuracy:  59.54% | Time: 62.60s
+  Neurons:  1400 | Accuracy:  59.53% | Time: 69.61s
+
+Testing with Batch Size: 8000
+  Neurons:   500 | Accuracy:  67.92% | Time: 12.14s
+  Neurons:   550 | Accuracy:  68.50% | Time: 13.70s
+  Neurons:   600 | Accuracy:  69.21% | Time: 15.66s
+  Neurons:   650 | Accuracy:  69.42% | Time: 17.66s
+  Neurons:   700 | Accuracy:  69.72% | Time: 19.64s
+  Neurons:   750 | Accuracy:  69.83% | Time: 22.11s
+  Neurons:   800 | Accuracy:  70.15% | Time: 24.37s
+  Neurons:   850 | Accuracy:  70.34% | Time: 26.92s
+  Neurons:   900 | Accuracy:  70.33% | Time: 29.39s
+  Neurons:   950 | Accuracy:  70.32% | Time: 32.16s
+  Neurons:  1000 | Accuracy:  70.35% | Time: 35.22s
+  Neurons:  1100 | Accuracy:  70.48% | Time: 41.27s
+  Neurons:  1200 | Accuracy:  70.48% | Time: 47.87s
+  Neurons:  1300 | Accuracy:  70.10% | Time: 57.20s
+  Neurons:  1400 | Accuracy:  70.32% | Time: 65.81s
+
+Testing with Batch Size: 9000
+  Neurons:   500 | Accuracy:  63.88% | Time: 11.66s
+  Neurons:   550 | Accuracy:  63.43% | Time: 13.45s
+  Neurons:   600 | Accuracy:  63.20% | Time: 15.32s
+  Neurons:   650 | Accuracy:  61.97% | Time: 17.41s
+  Neurons:   700 | Accuracy:  61.35% | Time: 19.31s
+  Neurons:   750 | Accuracy:  60.88% | Time: 21.78s
+  Neurons:   800 | Accuracy:  60.69% | Time: 24.30s
+  Neurons:   850 | Accuracy:  60.86% | Time: 26.61s
+  Neurons:   900 | Accuracy:  60.51% | Time: 28.99s
+  Neurons:   950 | Accuracy:  60.45% | Time: 31.93s
+  Neurons:  1000 | Accuracy:  60.31% | Time: 34.78s
+  Neurons:  1100 | Accuracy:  60.06% | Time: 39.65s
+  Neurons:  1200 | Accuracy:  59.93% | Time: 47.32s
+  Neurons:  1300 | Accuracy:  59.94% | Time: 55.48s
+  Neurons:  1400 | Accuracy:  59.81% | Time: 63.29s
+
+Testing with Batch Size: 10000
+  Neurons:   500 | Accuracy:  68.69% | Time: 16.02s
+  Neurons:   550 | Accuracy:  69.23% | Time: 17.61s
+  Neurons:   600 | Accuracy:  69.88% | Time: 19.15s
+  Neurons:   650 | Accuracy:  70.33% | Time: 21.42s
+  Neurons:   700 | Accuracy:  70.62% | Time: 23.14s
+  Neurons:   750 | Accuracy:  70.87% | Time: 25.58s
+  Neurons:   800 | Accuracy:  71.09% | Time: 28.28s
+  Neurons:   850 | Accuracy:  71.23% | Time: 30.25s
+  Neurons:   900 | Accuracy:  71.27% | Time: 32.74s
+  Neurons:   950 | Accuracy:  71.48% | Time: 35.33s
+  Neurons:  1000 | Accuracy:  71.56% | Time: 38.38s
+  Neurons:  1100 | Accuracy:  71.60% | Time: 43.44s
+  Neurons:  1200 | Accuracy:  71.53% | Time: 51.64s
+  Neurons:  1300 | Accuracy:  71.23% | Time: 58.26s
+  Neurons:  1400 | Accuracy:  71.25% | Time: 65.38s
+
+
+
+--- Finished scikit-elm OS-ELM Tuning for MEFAR_MID.csv ---
+
+--- Starting scikit-elm OS-ELM Tuning for MEFAR_UP.csv ---
+
+Testing with Batch Size: 5000
+  Neurons:   500 | Accuracy:  65.54% | Time: 13.93s
+  Neurons:   550 | Accuracy:  65.60% | Time: 16.43s
+  Neurons:   600 | Accuracy:  65.58% | Time: 18.43s
+  Neurons:   650 | Accuracy:  65.82% | Time: 20.42s
+  Neurons:   700 | Accuracy:  66.12% | Time: 23.17s
+  Neurons:   750 | Accuracy:  66.01% | Time: 25.55s
+  Neurons:   800 | Accuracy:  66.17% | Time: 28.31s
+  Neurons:   850 | Accuracy:  66.21% | Time: 32.19s
+  Neurons:   900 | Accuracy:  65.90% | Time: 35.58s
+  Neurons:   950 | Accuracy:  65.43% | Time: 39.93s
+  Neurons:  1000 | Accuracy:  65.12% | Time: 43.27s
+  Neurons:  1100 | Accuracy:  65.13% | Time: 50.96s
+  Neurons:  1200 | Accuracy:  64.93% | Time: 59.77s
+  Neurons:  1300 | Accuracy:  65.08% | Time: 70.28s
+  Neurons:  1400 | Accuracy:  64.93% | Time: 81.81s
+
+Testing with Batch Size: 6000
+  Neurons:   500 | Accuracy:  63.88% | Time: 13.27s
+  Neurons:   550 | Accuracy:  63.43% | Time: 15.48s
+  Neurons:   600 | Accuracy:  63.20% | Time: 17.91s
+  Neurons:   650 | Accuracy:  61.97% | Time: 19.63s
+  Neurons:   700 | Accuracy:  61.35% | Time: 22.08s
+  Neurons:   750 | Accuracy:  60.88% | Time: 25.20s
+  Neurons:   800 | Accuracy:  60.69% | Time: 27.72s
+  Neurons:   850 | Accuracy:  60.86% | Time: 30.42s
+  Neurons:   900 | Accuracy:  60.51% | Time: 33.32s
+  Neurons:   950 | Accuracy:  60.45% | Time: 36.79s
+  Neurons:  1000 | Accuracy:  60.31% | Time: 40.45s
+  Neurons:  1100 | Accuracy:  60.06% | Time: 47.35s
+  Neurons:  1200 | Accuracy:  59.93% | Time: 56.44s
+  Neurons:  1300 | Accuracy:  59.94% | Time: 65.11s
+  Neurons:  1400 | Accuracy:  59.81% | Time: 75.71s
+
+Testing with Batch Size: 7000
+  Neurons:   500 | Accuracy:  56.75% | Time: 12.90s
+  Neurons:   550 | Accuracy:  56.94% | Time: 14.28s
+  Neurons:   600 | Accuracy:  57.34% | Time: 16.58s
+  Neurons:   650 | Accuracy:  56.98% | Time: 18.66s
+  Neurons:   700 | Accuracy:  57.21% | Time: 20.87s
+  Neurons:   750 | Accuracy:  57.45% | Time: 23.92s
+  Neurons:   800 | Accuracy:  57.48% | Time: 26.98s
+  Neurons:   850 | Accuracy:  58.22% | Time: 28.70s
+  Neurons:   900 | Accuracy:  58.70% | Time: 30.19s
+  Neurons:   950 | Accuracy:  59.08% | Time: 33.06s
+  Neurons:  1000 | Accuracy:  59.77% | Time: 36.13s
+  Neurons:  1100 | Accuracy:  59.10% | Time: 42.55s
+  Neurons:  1200 | Accuracy:  59.43% | Time: 50.26s
+  Neurons:  1300 | Accuracy:  59.54% | Time: 62.60s
+  Neurons:  1400 | Accuracy:  59.53% | Time: 69.61s
+
+Testing with Batch Size: 8000
+  Neurons:   500 | Accuracy:  67.92% | Time: 12.14s
+  Neurons:   550 | Accuracy:  68.50% | Time: 13.70s
+  Neurons:   600 | Accuracy:  69.21% | Time: 15.66s
+  Neurons:   650 | Accuracy:  69.42% | Time: 17.66s
+  Neurons:   700 | Accuracy:  69.72% | Time: 19.64s
+  Neurons:   750 | Accuracy:  69.83% | Time: 22.11s
+  Neurons:   800 | Accuracy:  70.15% | Time: 24.37s
+  Neurons:   850 | Accuracy:  70.34% | Time: 26.92s
+  Neurons:   900 | Accuracy:  70.33% | Time: 29.39s
+  Neurons:   950 | Accuracy:  70.32% | Time: 32.16s
+  Neurons:  1000 | Accuracy:  70.35% | Time: 35.22s
+  Neurons:  1100 | Accuracy:  70.48% | Time: 41.27s
+  Neurons:  1200 | Accuracy:  70.48% | Time: 47.87s
+  Neurons:  1300 | Accuracy:  70.10% | Time: 57.20s
+  Neurons:  1400 | Accuracy:  70.32% | Time: 65.81s
+
+Testing with Batch Size: 9000
+  Neurons:   500 | Accuracy:  63.88% | Time: 11.66s
+  Neurons:   550 | Accuracy:  63.43% | Time: 13.45s
+  Neurons:   600 | Accuracy:  63.20% | Time: 15.32s
+  Neurons:   650 | Accuracy:  61.97% | Time: 17.41s
+  Neurons:   700 | Accuracy:  61.35% | Time: 19.31s
+  Neurons:   750 | Accuracy:  60.88% | Time: 21.78s
+  Neurons:   800 | Accuracy:  60.69% | Time: 24.30s
+  Neurons:   850 | Accuracy:  60.86% | Time: 26.61s
+  Neurons:   900 | Accuracy:  60.51% | Time: 28.99s
+  Neurons:   950 | Accuracy:  60.45% | Time: 31.93s
+  Neurons:  1000 | Accuracy:  60.31% | Time: 34.78s
+  Neurons:  1100 | Accuracy:  60.06% | Time: 39.65s
+  Neurons:  1200 | Accuracy:  59.93% | Time: 47.32s
+  Neurons:  1300 | Accuracy:  59.94% | Time: 55.48s
+  Neurons:  1400 | Accuracy:  59.81% | Time: 63.29s
+
+Testing with Batch Size: 10000
+  Neurons:   500 | Accuracy:  68.69% | Time: 16.02s
+  Neurons:   550 | Accuracy:  69.23% | Time: 17.61s
+  Neurons:   600 | Accuracy:  69.88% | Time: 19.15s
+  Neurons:   650 | Accuracy:  70.33% | Time: 21.42s
+  Neurons:   700 | Accuracy:  70.62% | Time: 23.14s
+  Neurons:   750 | Accuracy:  70.87% | Time: 25.58s
+  Neurons:   800 | Accuracy:  71.09% | Time: 28.28s
+  Neurons:   850 | Accuracy:  71.23% | Time: 30.25s
+  Neurons:   900 | Accuracy:  71.27% | Time: 32.74s
+  Neurons:   950 | Accuracy:  71.48% | Time: 35.33s
+  Neurons:  1000 | Accuracy:  71.56% | Time: 38.38s
+  Neurons:  1100 | Accuracy:  71.60% | Time: 43.44s
+  Neurons:  1200 | Accuracy:  71.53% | Time: 51.64s
+  Neurons:  1300 | Accuracy:  71.23% | Time: 58.26s
+  Neurons:  1400 | Accuracy:  71.25% | Time: 65.38s
