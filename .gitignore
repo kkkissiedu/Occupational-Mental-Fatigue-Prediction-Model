@@ -151,3 +151,8 @@ MEFAR_UP.csv
 MEFAR_MID.csv
 *.png
 Random Forest/Occupational Mental Fatigue Model_RF_MID.pkl
+Random Forest/Occupational Mental Fatigue Model_RF_UP.pkl
+Random Forest/Occupational Mental Fatigue Model_RF_DOWN.pkl
+XGBoost/Occupational Mental Fatigue Model_XG_DOWN.pkl
+XGBoost/Occupational Mental Fatigue Model_XG_MID.pkl
+XGBoost/Occupational Mental Fatigue Model_XG_UP.pkl
