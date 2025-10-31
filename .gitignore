@@ -156,3 +156,4 @@ Random Forest/Occupational Mental Fatigue Model_RF_DOWN.pkl
 XGBoost/Occupational Mental Fatigue Model_XG_DOWN.pkl
 XGBoost/Occupational Mental Fatigue Model_XG_MID.pkl
 XGBoost/Occupational Mental Fatigue Model_XG_UP.pkl
+Neural Network/best_model.pth
